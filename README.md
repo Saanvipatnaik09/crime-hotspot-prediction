@@ -27,8 +27,8 @@ This project focuses on predicting crime hotspots using machine learning and spa
 - Prediction & visualization
 
 ## 👩‍💻 Contributors
-- Your Name
-- Your Partner Name
+- Saanvi Patnaik
+- Harshvardhan Mhaske
 
 ## 📈 Future Work
 - Improve prediction accuracy
